@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0196-delete-duplicate-emails) |
 | [1148-article-views-i](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1527-patients-with-a-condition) |
