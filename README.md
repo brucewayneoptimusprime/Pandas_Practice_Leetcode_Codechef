@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0183-customers-who-never-order) |
 | [1148-article-views-i](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1757-recyclable-and-low-fat-products) |
