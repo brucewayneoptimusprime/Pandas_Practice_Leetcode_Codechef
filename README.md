@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/brucewayneoptimusprime/Pandas_Practice_Leetcode_Codechef/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
